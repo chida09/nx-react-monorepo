@@ -1,3 +1,7 @@
+# 参考
+コマンドの実行
+`nx generate @nx-react-monorepo/my-plugin:my-generator feature-test`
+
 # my-plugin
 
 This library was generated with [Nx](https://nx.dev).

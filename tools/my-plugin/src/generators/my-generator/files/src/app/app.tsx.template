@@ -1,0 +1,13 @@
+import React from 'react';
+
+export function <%= className %>() {
+  const <%= propertyName %> = '<%= propertyName %>!!!';
+
+  return (
+    <div>
+      {<%= propertyName %>} generated!!!
+    </div>
+  );
+}
+
+export default <%= className %>;
